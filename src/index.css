@@ -1,0 +1,6 @@
+@import "@visuallyjs/browser-ui/css/visuallyjs.css";
+@import "./fault-tree-analysis.css";
+
+body * {
+    font-family:sans-serif;
+}

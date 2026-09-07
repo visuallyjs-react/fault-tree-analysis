@@ -1,0 +1,15 @@
+{
+  "desc": "Machine-readable list of capabilities",
+  "capabilities": [
+    "lasso:auto-arm",
+    "diagram",
+    "plugin:line-crossings",
+    "shape-library",
+    "target-marker",
+    "diagram:mediator",
+    "connector:orthogonal",
+    "chart:column-chart",
+    "palette:drop-on-edge",
+    "model:node-factory"
+  ]
+}
